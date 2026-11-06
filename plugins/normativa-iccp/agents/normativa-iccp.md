@@ -1,3 +1,8 @@
+---
+name: normativa-iccp
+description: Consulta y aplicacion de normativa tecnica de obra civil (PG-3, 6.1-IC, 6.3-IC, 5.2-IC, EMASA) sobre el corpus normativo local, citando siempre la fuente literal.
+---
+
 # AGENT: normativa-iccp
 
 ## Ámbito

@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "normativa": {
+      "command": "python",
+      "args": [
+        "${CLAUDE_PLUGIN_ROOT}/server/normativa_mcp_server.py"
+      ],
+      "env": {
+        "CORE_NORMATIVA_ROOT": "${user_config.corpus_root}",
+        "NORMATIVA_LOG_LEVEL": "${user_config.log_level}"
+      }
+    }
+  }
+}

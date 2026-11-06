@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "normativa-iccp",
+  "description": "Consulta y verificacion de normativa tecnica de obra civil sobre corpus CORE-NOR local (PG-3, 6.1-IC, 6.3-IC, 5.2-IC, Decreto 293/2009, VIV/561/2010, EMASA). Cita literal, sin invenciones.",
+  "author": {
+    "name": "JL",
+    "email": "pepeluantunez@gmail.com"
+  },
+  "keywords": [
+    "normativa",
+    "iccp",
+    "urbanizacion",
+    "pg-3",
+    "6.1-ic",
+    "emasa",
+    "accesibilidad"
+  ],
+  "license": "MIT",
+  "mcpServers": "./.mcp.json",
+  "userConfig": {
+    "corpus_root": {
+      "type": "directory",
+      "title": "Raiz del corpus normativo (core_normativa)",
+      "description": "Carpeta local que contiene 01_texto_extraido/, 02_indices/ y 04_conocimiento/. Tipicamente urbanizacion-toolkit/core_normativa/.",
+      "required": true
+    },
+    "log_level": {
+      "type": "string",
+      "title": "Nivel de log del MCP",
+      "description": "INFO o DEBUG. DEBUG vuelca consultas al stderr.",
+      "default": "INFO"
+    }
+  },
+  "version": "0.1.0"
+}

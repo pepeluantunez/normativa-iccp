@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "normativa-iccp-marketplace",
+  "owner": {
+    "name": "JL",
+    "email": "pepeluantunez@gmail.com"
+  },
+  "description": "Consulta y verificacion de normativa tecnica sobre corpus CORE-NOR local",
+  "metadata": {
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "normativa-iccp",
+      "source": "normativa-iccp",
+      "description": "Consulta y verificacion de normativa tecnica sobre corpus CORE-NOR local",
+      "category": "normativa",
+      "tags": [
+        "pg-3",
+        "6.1-ic",
+        "emasa",
+        "accesibilidad"
+      ]
+    }
+  ]
+}

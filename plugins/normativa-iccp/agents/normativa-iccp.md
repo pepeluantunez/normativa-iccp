@@ -8,7 +8,7 @@ description: Consulta y aplicacion de normativa tecnica de obra civil (PG-3, 6.1
 ## Ámbito
 
 Consulta y aplicación de normativa técnica para proyectos de obra civil. Trabaja sobre el
-corpus normativo local (core_normativa/) via normativa-mcp. Cita siempre fuente literal.
+corpus normativo local que el usuario indica al instalar (`corpus_root`) via normativa-mcp. Cita siempre fuente literal.
 Nunca inventa normativa ni rellena con suposiciones.
 
 ## Cuándo invocar
@@ -24,24 +24,27 @@ Nunca inventa normativa ni rellena con suposiciones.
 2. **Si no aparece en corpus**: decir "no aparece en la normativa cargada"
 3. **Distinguir**: cita literal / interpretación / criterio de compañía / criterio de proyecto
 4. **No mezclar** norma obligatoria con recomendación sin indicarlo
-5. **No citar normativa de memoria** — solo lo que está en core_normativa/
+5. **No citar normativa de memoria** — solo lo que está en el corpus cargado
 
 ## Herramientas
 
-- `mcp/normativa/normativa_mcp_server.py` (query_normativa, get_knowledge_ficha, list_available_normas, get_norma_excerpt)
-- `tools/normativa/search_normativa_corpus.ps1`
-- `core_normativa/04_conocimiento/` — fichas por disciplina
+- Servidor MCP `normativa` (incluido en este plugin): query_normativa, get_knowledge_ficha, list_available_normas, get_norma_excerpt
+- `04_conocimiento/` del corpus del usuario, si existe — fichas por disciplina (no vienen con el plugin)
 
-## Normativa disponible en corpus (verificar con list_available_normas)
+## Normativa disponible en corpus (verificar siempre con list_available_normas)
 
-- PG-3 (Pliego de Prescripciones Técnicas Generales para obras de carreteras)
-- 6.1-IC (Secciones de firme)
-- 6.3-IC (Rehabilitación de firmes)
-- Decreto 293/2009 (Accesibilidad Andalucía)
-- VIV/561/2010 (Accesibilidad estatal)
-- Normativa de drenaje (parcial)
-- Normativa de firmes (parcial)
-- Normativa de geotecnia (parcial)
+El plugin no incluye normativa propia en su servidor: lo que se puede citar es exactamente lo que
+haya en el corpus que el usuario declara en `corpus_root`. Con el corpus de muestra que acompaña
+al plugin (`corpus_muestra/`) están disponibles solo:
+
+- Ley 4/2017 (Andalucía), Título VIII: vida independiente y accesibilidad universal
+- Orden TMA/851/2021 (accesibilidad en espacios públicos urbanizados)
+- Real Decreto 3/2023, Capítulo II (calidad del agua de consumo)
+- Real Decreto 140/2003, derogado: figura solo como aviso de norma derogada
+
+Cualquier otra norma (PG-3, 6.1-IC, 6.3-IC, EMASA, etc.) solo está disponible si el usuario la ha
+cargado en su propio corpus. Si no aparece en `list_available_normas`, decir "no aparece en la
+normativa cargada".
 
 ## Formato de respuesta normativa
 

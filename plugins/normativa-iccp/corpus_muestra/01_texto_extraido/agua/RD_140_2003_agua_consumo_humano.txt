@@ -1,0 +1,17 @@
+NORMA DEROGADA - NO CITAR COMO DERECHO VIGENTE
+================================================================
+
+Real Decreto 140/2003 - Criterios sanitarios de la calidad del agua de consumo humano
+
+Derogada el 2023-01-12.
+La sustituye: Real Decreto 3/2023 - Criterios tecnico-sanitarios de la calidad del agua de consumo, su control y suministro (BOE-A-2023-628).
+
+El texto integro NO esta en el corpus consultable: se archivo el 2026-08-14 en
+_archive/derogadas/20260814/ para que ninguna busqueda devuelva su articulado
+como si estuviera en vigor.
+
+Si necesitas citarla como referencia historica -por ejemplo, para explicar el
+regimen aplicable a una obra anterior a su derogacion-, el texto esta en esa
+carpeta. En cualquier otro caso, usa la norma que la sustituye.
+
+Detectado por tools/normativa/auditar_vigencia_corpus.py contra el BOE.

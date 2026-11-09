@@ -16,12 +16,16 @@
     "accesibilidad"
   ],
   "license": "MIT",
+  "homepage": "https://github.com/pepeluantunez/normativa-iccp",
+  "repository": "https://github.com/pepeluantunez/normativa-iccp",
+  "supportUrl": "https://github.com/pepeluantunez/normativa-iccp/issues",
+  "privacyPolicyUrl": "https://github.com/pepeluantunez/normativa-iccp/blob/main/docs/PRIVACIDAD_SOPORTE_MARKETPLACE.md",
   "mcpServers": "./.mcp.json",
   "userConfig": {
     "corpus_root": {
       "type": "directory",
-      "title": "Raiz del corpus normativo (core_normativa)",
-      "description": "Carpeta local que contiene 01_texto_extraido/, 02_indices/ y 04_conocimiento/. Tipicamente urbanizacion-toolkit/core_normativa/.",
+      "title": "Raiz del corpus normativo",
+      "description": "Carpeta local con 01_texto_extraido/ (obligatoria) y, opcionalmente, 04_conocimiento/, _registry/ y 05_vigencia/. Para probar el plugin, apunta a la carpeta corpus_muestra/ que viene incluida en el plugin.",
       "required": true
     },
     "log_level": {

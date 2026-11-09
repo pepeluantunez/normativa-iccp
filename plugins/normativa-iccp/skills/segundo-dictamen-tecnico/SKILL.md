@@ -47,7 +47,7 @@ NORMATIVA SOSPECHOSA: Decreto 293/2009
 Ejecutar `query_normativa` (tool del MCP normativa-mcp) con los términos clave de la decisión.
 Si hay dominio claro, añadir `domain_filter`.
 
-Si normativa-mcp no está disponible, buscar en `core_normativa/04_conocimiento/<dominio>/<dominio>_base.md`.
+Si normativa-mcp no está disponible, buscar en `04_conocimiento/<dominio>/<dominio>_base.md` del corpus que el usuario haya declarado, si existe.
 
 Si no existe ficha para el dominio, declarar **REQUIERE_VERIFICACION** sin emitir CONFORME/NO_CONFORME.
 

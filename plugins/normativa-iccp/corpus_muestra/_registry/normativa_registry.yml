@@ -1,0 +1,118 @@
+# NORMATIVA_REGISTRY (muestra) - subconjunto de 4 disposiciones oficiales.
+schema_version: '1.1'
+last_updated: '2026-08-19'
+total_normas: 4
+normas:
+- codigo: CORE-NOR-0008
+  titulo: Real Decreto 140/2003 - Criterios sanitarios de la calidad del agua de consumo humano
+  abreviatura: RD 140/2003
+  boe_id: BOE-A-2003-3596
+  categoria: abastecimiento
+  estado_vigencia: derogada
+  fecha_derogacion: '2023-01-12'
+  sustituida_por:
+  - CORE-NOR-0104
+  sustituida_por_boe: BOE-A-2023-628
+  aplicacion: nacional
+  rutas:
+    pdf_local: null
+    texto_extraido: 01_texto_extraido/agua/RD_140_2003_agua_consumo_humano.txt
+    ficha_conocimiento: null
+  estadisticas:
+    paginas: 32
+    caracteres: 210779
+  extraccion:
+    procesado_por: Claude Code 2026-08-06
+    fecha: '2026-08-06'
+    metodo: BOE API legislacion consolidada (boe_get_norma BOE-A-2003-3596) — XML -> texto
+    calidad_estimada: alta
+    ocr_necesario: false
+    nota: DEROGADA. La sustituye Real Decreto 3/2023, de 10 de enero, por el que se establecen los criterios tecnico-sanitarios de la calidad del agua de consumo (BOE-A-2023-628). Detectado el 2026-08-14 por tools/normativa/auditar_vigencia_corpus.py contra el BOE; el registro la declaraba VIGENTE. No citarla como derecho vigente.
+  validacion:
+    validado_por: null
+    nivel: pendiente
+  cobertura: completa
+- codigo: CORE-NOR-0066
+  titulo: Orden TMA/851/2021 - Condiciones basicas de accesibilidad en espacios publicos urbanizados
+  abreviatura: Orden TMA/851/2021
+  boe_id: BOE-A-2021-13488
+  tipo: orden_ministerial
+  anio: 2021
+  categoria: accesibilidad
+  estado_vigencia: vigente
+  aplicacion: nacional
+  cobertura: completa
+  rutas:
+    pdf_local: null
+    texto_extraido: 01_texto_extraido/Orden_TMA_851_2021_Espacios_Publicos_Urbanizados.txt
+    ficha_conocimiento: null
+  estadisticas:
+    paginas: 0
+    caracteres: 98418
+  extraccion:
+    procesado_por: Codex (GPT-5)
+    fecha: '2026-05-21'
+    metodo: BOE HTML consolidado + HTMLParser
+    calidad_estimada: alta
+    ocr_necesario: false
+    nota: Base estatal para accesibilidad de espacios publicos urbanizados. Relevante para plazas, parques y jardines, IPA,
+      alcorques, mobiliario, rampas peatonales y areas estanciales.
+  validacion:
+    validado_por: Codex (GPT-5, 2026-05-21)
+    nivel: checked
+- codigo: CORE-NOR-0104
+  titulo: 'Real Decreto 3/2023 - Criterios tecnico-sanitarios de la calidad del agua de consumo, su control y suministro'
+  abreviatura: 'RD 3/2023'
+  boe_id: BOE-A-2023-628
+  categoria: abastecimiento
+  estado_vigencia: vigente
+  aplicacion: nacional
+  rutas:
+    pdf_local: null
+    texto_extraido: 01_texto_extraido/agua/RD_3_2023_Agua_Consumo_*.md
+    ficha_conocimiento: null
+  estadisticas:
+    paginas: null
+    fragmentos: 9
+  extraccion:
+    procesado_por: tools/normativa/ingest_norma_consolidada.py
+    fecha: '2026-08-14'
+    metodo: 'XML de legislacion consolidada del BOE (BOE-A-2023-628), troceado por titulos'
+    calidad_estimada: alta
+    ocr_necesario: false
+    nota: 'Sucesora del RD 140/2003, que derogo el 12-01-2023. Alta del 2026-08-14 tras detectar con auditar_vigencia_corpus.py que el corpus servia la norma derogada como vigente.'
+  validacion:
+    validado_por: null
+    nivel: pendiente
+  cobertura: completa
+  tipo: reglamento
+  anio: 2023
+  sustituye_a: CORE-NOR-0008
+- codigo: CORE-NOR-0105
+  titulo: 'Ley 4/2017 - Derechos y Atencion a las Personas con Discapacidad en Andalucia'
+  abreviatura: 'Ley 4/2017'
+  boe_id: BOE-A-2017-11910
+  categoria: accesibilidad
+  estado_vigencia: vigente
+  aplicacion: andalucia
+  rutas:
+    pdf_local: null
+    texto_extraido: 01_texto_extraido/accesibilidad/Ley_4_2017_Discapacidad_Andalucia_*.md
+    ficha_conocimiento: null
+  estadisticas:
+    paginas: null
+    fragmentos: 16
+  extraccion:
+    procesado_por: tools/normativa/ingest_norma_consolidada.py
+    fecha: '2026-08-14'
+    metodo: 'XML de legislacion consolidada del BOE (BOE-A-2017-11910), troceado por titulos'
+    calidad_estimada: alta
+    ocr_necesario: false
+    nota: 'Sucesora de la Ley 1/1999, que derogo el 24-10-2017. Para urbanizacion el titulo aplicable es el VIII (vida independiente y accesibilidad universal). Alta del 2026-08-14.'
+  validacion:
+    validado_por: null
+    nivel: pendiente
+  cobertura: completa
+  tipo: ley
+  anio: 2017
+  sustituye_a: CORE-NOR-0047

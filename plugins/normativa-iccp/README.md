@@ -10,7 +10,7 @@ corpus cargado, lo dice.
 - Un agente (`normativa-iccp`) y dos skills: `consulta-normativa` y `segundo-dictamen-tecnico`.
 - Una etiqueta de vigencia: si el corpus incluye el registro de vigencia, las normas derogadas se
   devuelven marcadas como DEROGADAS y con su sucesora, no como derecho vigente.
-- `corpus_muestra/`: cuatro disposiciones oficiales (BOE) para probarlo sin cargar nada tuyo.
+- `corpus_muestra/`: tres disposiciones oficiales (BOE) para probarlo sin cargar nada tuyo.
 
 ## Qué NO incluye
 

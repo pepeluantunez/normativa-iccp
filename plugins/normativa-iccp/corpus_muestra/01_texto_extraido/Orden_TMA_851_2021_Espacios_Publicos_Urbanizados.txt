@@ -1,243 +1,14 @@
-# Orden TMA/851/2021 - accesibilidad en espacios publicos urbanizados
-
-- source_origin: `https://www.boe.es/buscar/act.php?id=BOE-A-2021-13488`
-- extraction_method: `HTML oficial + HTMLParser stdlib`
-- extracted_by: `Codex 2026-05-21`
-
-BOE-A-2021-13488 Orden TMA/851/2021, de 23 de julio, por la que se desarrolla el documento técnico de condiciones básicas de accesibilidad y no discriminación para el acceso y la utilización de los espacios públicos urbanizados.
-
-Agencia Estatal Boletín Oficial del Estado
-
-Ir a contenido
-
-Consultar el diario oficial BOE
-
-Idioma actual:Castellano / es
-Puede seleccionar otro idioma:
-
-es / Castellano
-
-ca / Català
-
-gl / Galego
-
-eu / Euskara
-
-va / Valencià
-
-en / English
-
-fr / Français
-
-Buscar
-
-Mi BOE Desconectado.Pulse para acceder al servicio 'Mi BOE'
-
-Menú
- Menú
-
-Diarios Oficiales
-
-BOE
-
-BORME
-
-Otros diarios oficiales
-
-Información Jurídica
-
-Todo el Derecho
-
-Biblioteca Jurídica Digital
-
-Otros servicios
-
-Notificaciones
-
-Edictos judiciales
-
-Portal de subastas
-
-Anunciantes
-
-Datos abiertos
-
-Está Vd. en
-Inicio
-
-Buscar
-
-Documento consolidado BOE-A-2021-13488
-
-Legislación consolidadaEste texto consolidado es de carácter informativo y no tiene valor jurídico.La consolidación consiste en integrar en un solo texto, sin valor oficial, las modificaciones, correcciones y derogaciones de carácter expreso que una norma ha tenido desde su origen, con el objetivo de facilitar el acceso al Derecho vigente. Para fines jurídicos, debe consultarse la publicación oficial.
-
-Ayuda
-
-Orden TMA/851/2021, de 23 de julio, por la que se desarrolla el documento técnico de condiciones básicas de accesibilidad y no discriminación para el acceso y la utilización de los espacios públicos urbanizados.
-
-Publicado en:«BOE»núm. 187, de 06/08/2021.Entrada en vigor:02/01/2022Departamento:Ministerio de Transportes, Movilidad y Agenda UrbanaReferencia:BOE-A-2021-13488Permalink ELI:https://www.boe.es/eli/es/o/2021/07/23/tma851/con
-
-Seleccionar redacción: 
-Texto inicial publicado el 06/08/2021
-Texto inicial publicado el 06/08/2021
-
-PDF
-
-ePUB
-
-Vídeo tutorial sobre Diccionario panhispánico del español jurídico de la Real Academia Española
-Ir a la web del Diccionario Panhispánico del Español Jurídico (DPEJ)
-Introducir término a buscar en el Diccionario Panhispánico del Español Jurídico
-
-CompletoCompleto
-
-Solo TextoTexto
-
-ÍndiceÍndice
-
-AnálisisAnálisis
-
-Recibir alerta 
-
-Texto consolidado: «Última actualización, publicada el 06/08/2021»
-
-Ir a: 
-Seleccionar apartado
-[Preámbulo]
-
-Artículo único
-
-Disposición transitoria única
-
-Disposición derogatoria única
-
-Disposición final primera
-
-Disposición final segunda
-
-[Firma]
-
-ANEXO
-
-CAPÍTULO I
-
-Artículo 1
-
-Artículo 2
-
-CAPÍTULO II
-
-Artículo 3
-
-Artículo 4
-
-CAPÍTULO III
-
-Artículo 5
-
-CAPÍTULO IV
-
-Artículo 6
-
-Artículo 7
-
-Artículo 8
-
-Artículo 9
-
-CAPÍTULO V
-
-Artículo 10
-
-Artículo 11
-
-Artículo 12
-
-Artículo 13
-
-Artículo 14
-
-Artículo 15
-
-Artículo 16
-
-Artículo 17
-
-Artículo 18
-
-CAPÍTULO VI
-
-Artículo 19
-
-Artículo 20
-
-Artículo 21
-
-Artículo 22
-
-Artículo 23
-
-CAPÍTULO VII
-
-Artículo 24
-
-CAPÍTULO VIII
-
-Artículo 25
-
-Artículo 26
-
-Artículo 27
-
-Artículo 28
-
-Artículo 29
-
-Artículo 30
-
-Artículo 31
-
-Artículo 32
-
-Artículo 33
-
-Artículo 34
-
-CAPÍTULO IX
-
-Artículo 35
-
-Artículo 36
-
-Artículo 37
-
-Artículo 38
-
-CAPÍTULO X
-
-Artículo 39
-
-CAPÍTULO XI
-
-Artículo 40
-
-Artículo 41
-
-Artículo 42
-
-Artículo 43
-
-Artículo 44
-
-Artículo 45
-
-Artículo 46
-
-Artículo 47
-
-APÉNDICE
-
-[Bloque 1: #pr]
+# Orden TMA/851/2021, de 23 de julio, por la que se desarrolla el documento técnico de condiciones básicas de accesibilidad y no discriminación para el acceso y la utilización de los espacios públicos urbanizados.
+
+- norma: `Orden TMA/851/2021, de 23 de julio, por la que se desarrolla el documento técnico de condiciones básicas de accesibilidad y no discriminación para el acceso y la utilización de los espacios públicos urbanizados.`
+- texto: `consolidado`
+- fecha_consolidacion: `2026-09-03`
+- source_origin: `https://www.boe.es/diario_boe/xml.php?id=BOE-A-2021-13488`
+- eli: `https://www.boe.es/eli/es/o/2021/07/23/tma851`
+- publicacion_original: `Boletín Oficial del Estado de 2021-08-06 (num. 187)`
+- estado: `vigente`
+- extraction_method: `XML de legislacion consolidada del BOE (BOE-A-2021-13488), sin edicion; la tabla se aplana a texto y la figura no se incluye`
+- aviso_modificacion_futura: `El Real Decreto 707/2026, de 2 de septiembre (BOE-A-2026-18509) modifica el art. 32 y suprime el art. 47 del Anexo con efectos desde 2027-01-02; el texto de este fichero es el vigente a la fecha de consolidacion`
 
 Las políticas públicas en torno a la accesibilidad han experimentado un notable desarrollo a lo largo de las últimas décadas. Un hito fundamental en este recorrido fue la Convención Internacional sobre los derechos de las personas con discapacidad, aprobada el 13 de diciembre de 2006 por la Asamblea General de las Naciones Unidas, ratificada por España el 3 de diciembre de 2007 y en vigor desde el 3 de mayo de 2008. La Convención supuso la consagración del enfoque de derechos de las personas con discapacidad como sujetos titulares de derechos, reconociendo la importancia que, en dichos derechos, tiene la accesibilidad universal.
 
@@ -267,83 +38,54 @@ Esta norma ha sido sometida también al procedimiento de información en materia
 
 En su virtud, y de conformidad con lo establecido en la disposición final cuarta del Real Decreto 505/2007, de 20 de abril, a propuesta de la Dirección General de Agenda Urbana y Arquitectura, con la conformidad del Secretario General de Agenda Urbana y Vivienda y del Secretario de Estado de Transportes, Movilidad y Agenda Urbana, dispongo:
 
-Subir
 
-[Bloque 2: #au]
-
-Artículo único. Aprobación del documento técnico que desarrolla las condiciones básicas de accesibilidad y no discriminación para el acceso y la utilización de los espacios públicos urbanizados.
+## Artículo único. Aprobación del documento técnico que desarrolla las condiciones básicas de accesibilidad y no discriminación para el acceso y la utilización de los espacios públicos urbanizados.
 
 Se aprueba el documento técnico que desarrolla las condiciones básicas de accesibilidad y no discriminación para el acceso y la utilización de los espacios públicos urbanizados cuyo texto se incluye como anexo.
 
-Subir
 
-[Bloque 3: #dt]
-
-Disposición transitoria única. Régimen de aplicación.
+## Disposición transitoria única. Régimen de aplicación.
 
 El documento técnico aprobado por esta Orden no será de aplicación obligatoria a los espacios públicos urbanizados cuyos planes y proyectos se aprueben definitivamente durante el transcurso de los diez primeros meses posteriores a su entrada en vigor. Durante este periodo se podrá optar por el cumplimiento de esta Orden o de la Orden VIV/561/2010, de 1 de febrero.
 
-Subir
 
-[Bloque 4: #dd]
-
-Disposición derogatoria única. Derogación normativa.
+## Disposición derogatoria única. Derogación normativa.
 
 Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en esta Orden Ministerial, y en particular la Orden VIV/561/2010, de 1 de febrero, por la que se desarrolla el documento técnico de condiciones básicas de accesibilidad y no discriminación para el acceso y utilización de los espacios públicos urbanizados.
 
-Subir
 
-[Bloque 5: #df]
-
-Disposición final primera. Título competencial.
+## Disposición final primera. Título competencial.
 
 Esta Orden Ministerial se dicta al amparo de lo dispuesto en el artículo 149.1.1.ª de la Constitución, que atribuye al Estado la competencia exclusiva para regular las condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de los derechos y en el cumplimiento de los deberes constitucionales.
 
-Subir
 
-[Bloque 6: #df-2]
-
-Disposición final segunda. Entrada en vigor.
+## Disposición final segunda. Entrada en vigor.
 
 Esta Orden Ministerial entrará en vigor el dos de enero de dos mil veintidós.
 
-Subir
-
-[Bloque 7: #fi]
-
 Madrid, 23 de julio de 2021.–La Ministra de Transportes, Movilidad y Agenda Urbana, Raquel Sánchez Jiménez.
 
-Subir
 
-[Bloque 8: #an]
+## ANEXO
 
-ANEXO
 
-Documento técnico que desarrolla las condiciones básicas de accesibilidad y no discriminación para el acceso y la utilización de los espacios públicos urbanizados
+## Documento técnico que desarrolla las condiciones básicas de accesibilidad y no discriminación para el acceso y la utilización de los espacios públicos urbanizados
 
-Subir
 
-[Bloque 9: #ci]
+## CAPÍTULO I
 
-CAPÍTULO I
 
-Disposiciones generales
+## Disposiciones generales
 
-Subir
 
-[Bloque 10: #a1]
-
-Artículo 1. Objeto y principios rectores.
+## Artículo 1. Objeto y principios rectores.
 
 1. Este documento técnico desarrolla las condiciones básicas de accesibilidad y no discriminación para el acceso y la utilización de los espacios públicos urbanizados. Dichas condiciones básicas derivan de la aplicación de los principios de autonomía individual, no discriminación, accesibilidad universal y diseño universal o diseño para todas las personas, tomando especialmente en consideración las necesidades de las personas con discapacidad, así como las vinculadas al uso de productos y servicios de apoyo.
 
 2. Las condiciones básicas referidas en el apartado anterior garantizarán unos espacios públicos urbanizados comprensibles, utilizables y practicables por todas las personas, en condiciones de seguridad y comodidad y de la forma más autónoma y natural posible, en los términos establecidos por este documento técnico y con el fin de hacer efectiva la accesibilidad universal y el derecho a la igualdad de oportunidades y de trato.
 
-Subir
 
-[Bloque 11: #a2]
-
-Artículo 2. Ámbito y criterios generales de aplicación.
+## Artículo 2. Ámbito y criterios generales de aplicación.
 
 1. El ámbito de aplicación de este documento técnico está constituido por los espacios públicos urbanizados situados en el territorio del Estado español tal y como se definen en el artículo siguiente. Todas las definiciones recogidas en este documento técnico se entienden referidas únicamente a los efectos de su aplicación.
 
@@ -351,29 +93,21 @@ Artículo 2. Ámbito y criterios generales de aplicación.
 
 3. No obstante se podrá exceptuar el cumplimiento de determinados requisitos establecidos en este documento técnico de manera excepcional y adecuadamente justificada, proponiéndose en todo caso otras soluciones de adecuación efectiva que garanticen la máxima accesibilidad y seguridad posibles y siempre de conformidad con lo dispuesto para tales casos en la normativa autonómica o local, cuando exista.
 
-Subir
 
-[Bloque 12: #ci-2]
+## CAPÍTULO II
 
-CAPÍTULO II
 
-Espacios públicos urbanizados y zonas de uso peatonal
+## Espacios públicos urbanizados y zonas de uso peatonal
 
-Subir
 
-[Bloque 13: #a3]
-
-Artículo 3. Espacios públicos urbanizados.
+## Artículo 3. Espacios públicos urbanizados.
 
 1. Los espacios públicos urbanizados comprenden el conjunto de espacios peatonales y vehiculares, de paso o estancia, no adscritos a una edificación, y que forman parte del dominio público o están destinados al uso público, en el suelo en situación básica de urbanizado de conformidad con lo dispuesto por la legislación estatal de suelo.
 
 2. También se consideran espacios públicos urbanizados los tramos urbanos de las playas tal y como se definen en la legislación estatal en materia de costas.
 
-Subir
 
-[Bloque 14: #a4]
-
-Artículo 4. Zonas de uso peatonal.
+## Artículo 4. Zonas de uso peatonal.
 
 Se denomina:
 
@@ -383,19 +117,14 @@ b) Itinerario peatonal: la parte de la zona de uso peatonal destinada específic
 
 c) Área de estancia: la parte de la zona de uso peatonal, de perímetro abierto o cerrado, donde se desarrollan actividades de esparcimiento, juegos, actividades comerciales, paseo, deporte, descanso y otras de similares características, en las que las personas permanecen durante un tiempo determinado.
 
-Subir
 
-[Bloque 15: #ci-3]
+## CAPÍTULO III
 
-CAPÍTULO III
 
-Itinerarios peatonales
+## Itinerarios peatonales
 
-Subir
 
-[Bloque 16: #a5]
-
-Artículo 5. Itinerarios peatonales accesibles.
+## Artículo 5. Itinerarios peatonales accesibles.
 
 1. Se consideran itinerarios peatonales accesibles aquellos que garantizan el uso y la circulación de forma segura, cómoda, autónoma y continua de todas las personas. Siempre que exista más de un itinerario posible entre dos puntos, y en la eventualidad de que no todos puedan ser accesibles, se habilitarán las medidas necesarias para que el recorrido del itinerario peatonal accesible no resulte en ningún caso discriminatorio, ni por su longitud, ni por transcurrir fuera de las áreas de mayor afluencia de personas.
 
@@ -425,19 +154,14 @@ i) Dispondrá de una correcta comunicación y señalización cumpliendo las cond
 
 5. Se preverán áreas de descanso a lo largo del itinerario peatonal accesible en función de sus características físicas, la tipología de la población usuaria habitual y la frecuencia de uso que presente.
 
-Subir
 
-[Bloque 17: #ci-4]
+## CAPÍTULO IV
 
-CAPÍTULO IV
 
-Áreas de estancia
+## Áreas de estancia
 
-Subir
 
-[Bloque 18: #a6]
-
-Artículo 6. Áreas de descanso y áreas con presencia de espectadores.
+## Artículo 6. Áreas de descanso y áreas con presencia de espectadores.
 
 1. Las áreas de descanso deberán cumplir los siguientes requisitos:
 
@@ -453,11 +177,8 @@ d) Dispondrán de bancos de acuerdo con lo establecido en el artículo 26.
 
 3. Las áreas destinadas a la realización de actividades que requieran la presencia de espectadores deberán disponer, además de los servicios y productos de apoyo que correspondan de acuerdo con su propia normativa, de una plaza reservada para personas usuarias de sillas de ruedas o que utilicen productos de apoyo para su movilidad, sin asiento y debidamente señalizada, por cada cuarenta o fracción. Estas plazas o espacios tendrán una dimensión mínima de 1,50 m de longitud y 1,00 m de ancho y estarán localizados junto al itinerario peatonal accesible y a otros asientos donde puedan ubicarse las personas que lo precisen y su acompañante, no pudiendo situarse en espacios residuales, aislados o no concebidos para su utilización por el público en general.
 
-Subir
 
-[Bloque 19: #a7]
-
-Artículo 7. Plazas, parques y jardines.
+## Artículo 7. Plazas, parques y jardines.
 
 1. Las plazas, parques y jardines, exceptuándose las áreas ajardinadas, deberán cumplir los siguientes requisitos:
 
@@ -473,11 +194,8 @@ c) La pavimentación reunirá las características de diseño e instalación def
 
 4. En los itinerarios peatonales accesibles de los parques y jardines se dispondrá de información para la orientación y localización de los accesos, las instalaciones, las actividades y los servicios disponibles. La señalización responderá a los criterios establecidos en el capítulo XI e incluirá, como mínimo, la información relativa a ubicación y distancias.
 
-Subir
 
-[Bloque 20: #a8]
-
-Artículo 8. Sectores de juegos infantiles y de ejercicios.
+## Artículo 8. Sectores de juegos infantiles y de ejercicios.
 
 1. Al menos, uno de cada cinco elementos de cada sector de juegos infantiles y de ejercicios, contará con criterios de accesibilidad universal, debiendo ser, en el caso de los juegos infantiles, este elemento, de tipo dinámico o que genere movimiento al introducirse en su interior. Cuando haya más de un elemento que cuente con criterios de accesibilidad universal, deberán corresponder a diferente categoría.
 
@@ -487,11 +205,8 @@ Artículo 8. Sectores de juegos infantiles y de ejercicios.
 
 4. Junto a los elementos de juego y de ejercicio que deban contar con criterios de accesibilidad universal, se preverán espacios libres de obstáculos donde pueda inscribirse un círculo de 1,50 m de diámetro mínimo. Dichas áreas en ningún caso coincidirán con el ámbito de paso del itinerario peatonal accesible.
 
-Subir
 
-[Bloque 21: #a9]
-
-Artículo 9. Tramos urbanos de las playas.
+## Artículo 9. Tramos urbanos de las playas.
 
 1. Los tramos urbanos de las playas deberán disponer de puntos accesibles en función de sus características físicas y la frecuencia de uso, durante toda la temporada de baño, y ello sin perjuicio de las limitaciones que puedan producirse por la legislación estatal en materia de costas.
 
@@ -511,39 +226,28 @@ b) Cuando discurra sobre arena de playa u otro suelo no compactado o irregular d
 
 7. En los itinerarios peatonales accesibles colindantes con los tramos urbanos de las playas se dispondrá de información para la orientación y localización de los accesos, las instalaciones, las actividades y los servicios disponibles. La señalización responderá a los criterios establecidos en el capítulo XI e incluirá, como mínimo, la información relativa a ubicación y distancias.
 
-Subir
 
-[Bloque 22: #cv]
+## CAPÍTULO V
 
-CAPÍTULO V
 
-Elementos de urbanización
+## Elementos de urbanización
 
-Subir
 
-[Bloque 23: #a1-2]
-
-Artículo 10. Condiciones generales de los elementos de urbanización.
+## Artículo 10. Condiciones generales de los elementos de urbanización.
 
 1. Se consideran elementos de urbanización las piezas, partes y objetos reconocibles individualmente que componen el espacio público urbanizado y que materializan las previsiones de la ordenación urbanística vigente. Su diseño y colocación se ajustará a lo establecido en los artículos siguientes.
 
 2. Los elementos de urbanización vinculados al cruce entre itinerarios peatonales e itinerarios vehiculares se desarrollan en el capítulo VI.
 
-Subir
 
-[Bloque 24: #a1-3]
-
-Artículo 11. Pavimentos.
+## Artículo 11. Pavimentos.
 
 1. El pavimento del itinerario peatonal accesible será duro, estable y cumplirá con la exigencia de resbaladicidad para los suelos en zonas exteriores establecida en el Documento Básico SUA, Seguridad de utilización y accesibilidad del Real Decreto 314/2006, de 17 de marzo, por el que se aprueba el Código Técnico de la Edificación. No presentará piezas ni elementos sueltos, con independencia del sistema constructivo que, en todo caso, impedirá el movimiento de las mismas. Su colocación asegurará su continuidad y la inexistencia de resaltes de altura superior a 4 mm, y su textura será diferente de la de los pavimentos táctiles indicadores especificados en el artículo 45.
 
 2. En los itinerarios peatonales accesibles también se admitirá la utilización de pavimentos blandos con una compactación superior al 90% determinada de acuerdo con el método de ensayo proctor modificado de la norma UNE 103501:1994, que permitan el tránsito de peatones de forma estable y segura, sin ocasionar hundimientos ni estancamientos de aguas, y manteniendo la máxima adecuación posible con el resto de características exigidas en el apartado anterior.
 
-Subir
 
-[Bloque 25: #a1-4]
-
-Artículo 12. Rejillas, tapas de instalación y alcorques.
+## Artículo 12. Rejillas, tapas de instalación y alcorques.
 
 1. Las rejillas, tapas de instalación y alcorques ubicados en las zonas de uso peatonal se colocarán preferentemente de manera que no invadan el itinerario peatonal accesible y deberán cumplir las siguientes especificaciones:
 
@@ -553,19 +257,13 @@ b) Los alcorques estarán protegidos preferentemente mediante rejillas, material
 
 2. Fuera de la zona de uso peatonal, si fuera necesario colocar rejillas en la cota inferior de un vado peatonal a menos de 50 cm de distancia de los límites laterales externos del paso de peatones, éstas cumplirán las especificaciones anteriores.
 
-Subir
 
-[Bloque 26: #a1-5]
-
-Artículo 13. Vados vehiculares.
+## Artículo 13. Vados vehiculares.
 
 Los vados vehiculares no alterarán las condiciones generales de los itinerarios peatonales accesibles que atraviesen y no coincidirán, en ningún caso, con los vados de uso peatonal.
 
-Subir
 
-[Bloque 27: #a1-6]
-
-Artículo 14. Rampas.
+## Artículo 14. Rampas.
 
 1. Se entiende por rampas vinculadas a un itinerario peatonal accesible los planos inclinados con pendiente superior al 6% que se utilizan para salvar sus desniveles, excepto aquellos que forman parte de un punto de cruce con el itinerario vehicular.
 
@@ -591,11 +289,8 @@ d) La pendiente transversal máxima será del 2%.
 
 8. Colindante o próxima a la rampa deberá ubicarse, siempre que sea posible, una escalera que cumpla las condiciones especificadas en el artículo siguiente.
 
-Subir
 
-[Bloque 28: #a1-7]
-
-Artículo 15. Escaleras.
+## Artículo 15. Escaleras.
 
 1. Las escaleras no forman parte de los itinerarios peatonales accesibles, pero se consideran elementos complementarios a los mismos. Aquellas que sirvan de alternativa de paso a rampas o ascensores vinculados a itinerarios peatonales accesibles, deberán ubicarse colindantes o próximas a éstos y sus diferentes elementos se regirán por las especificaciones establecidas en los apartados siguientes.
 
@@ -625,11 +320,8 @@ f) Cada escalón se señalizará en toda su longitud con una banda de 5 cm de an
 
 8. En todo su desarrollo poseerá una altura libre de paso no inferior a 2,20 m y los espacios abiertos bajo la escalera cuya altura sea inferior a 2,20 m se protegerán disponiendo de elementos fijos que restrinjan el acceso hasta ellos y que permitan su detección por los bastones de personas con discapacidad visual.
 
-Subir
 
-[Bloque 29: #a1-8]
-
-Artículo 16. Ascensores.
+## Artículo 16. Ascensores.
 
 1. Los ascensores vinculados a un itinerario peatonal accesible estarán convenientemente señalizados, serán parcialmente transparentes, permitiendo el contacto visual con el exterior, y cumplirán las especificaciones establecidas en los siguientes apartados.
 
@@ -655,11 +347,8 @@ c) Cabinas de dos puertas en ángulo: 1,60 × 1,40 m.
 
 9. Además de lo dispuesto en este artículo, los ascensores llevarán el marcado CE de conformidad con la Directiva 2014/33/UE del Parlamento Europeo y del Consejo, de 26 de febrero de 2014, sobre la armonización de las legislaciones de los estados miembros en materia de ascensores y componentes de seguridad para ascensores, y cumplirán con los requerimientos previstos en la norma UNE EN 81-70 relativa a la «Accesibilidad a los ascensores de personas, incluyendo personas con discapacidad» y demás legislación sectorial que sea de aplicación en materia de seguridad y mantenimiento.
 
-Subir
 
-[Bloque 30: #a1-9]
-
-Artículo 17. Andenes móviles y escaleras mecánicas.
+## Artículo 17. Andenes móviles y escaleras mecánicas.
 
 1. Los andenes móviles y las escaleras mecánicas no forman parte de los itinerarios peatonales accesibles, pero se consideran elementos complementarios a ellos. Con la finalidad de facilitar su uso por parte del mayor número de personas, aquéllos que sirvan de alternativa a un itinerario peatonal accesible y estén ubicados colindantes o próximos a éstos, deberán cumplir las siguientes especificaciones:
 
@@ -677,27 +366,19 @@ f) Los pasamanos móviles contrastarán cromáticamente con el entorno y deberá
 
 2. Además de lo dispuesto en este artículo cumplirán con la legislación sectorial que sea de aplicación en materia de seguridad y mantenimiento.
 
-Subir
 
-[Bloque 31: #a1-10]
-
-Artículo 18. Vegetación.
+## Artículo 18. Vegetación.
 
 Los árboles, arbustos, plantas ornamentales o elementos vegetales no obstaculizarán el ámbito de paso peatonal del itinerario peatonal accesible, ni el campo visual de las personas en relación con las señales de tránsito, indicadores, rótulos, semáforos y otros elementos, permitiendo a su vez el correcto alumbrado público.
 
-Subir
 
-[Bloque 32: #cv-2]
+## CAPÍTULO VI
 
-CAPÍTULO VI
 
-Cruces entre itinerarios peatonales e itinerarios vehiculares
+## Cruces entre itinerarios peatonales e itinerarios vehiculares
 
-Subir
 
-[Bloque 33: #a1-11]
-
-Artículo 19. Condiciones generales de los cruces entre itinerarios peatonales e itinerarios vehiculares.
+## Artículo 19. Condiciones generales de los cruces entre itinerarios peatonales e itinerarios vehiculares.
 
 1. Los puntos de cruce entre itinerarios peatonales e itinerarios vehiculares deberán asegurar que el tránsito de peatones se mantenga de forma continua en todo su desarrollo.
 
@@ -707,11 +388,8 @@ Artículo 19. Condiciones generales de los cruces entre itinerarios peatonales e
 
 4. Se garantizará que, junto a los puntos de cruce, no existan elementos que puedan obstaculizar el mismo o la detección visual de la calzada y de elementos de seguridad por parte de los peatones, así como la visibilidad de los peatones por parte del conductor.
 
-Subir
 
-[Bloque 34: #a2-2]
-
-Artículo 20. Vados peatonales.
+## Artículo 20. Vados peatonales.
 
 1. El diseño y ubicación de los vados peatonales se resolverá mediante uno, dos o tres planos inclinados, de acuerdo con las condiciones establecidas en este artículo.
 
@@ -735,11 +413,8 @@ Artículo 20. Vados peatonales.
 
 11. Cuando exista una zona de aparcamiento colindante a la acera, o cualquier otra circunstancia que lo permita, ésta se podrá ampliar hacia la calzada sin sobrepasar el límite de dicha zona, minimizando las distancias de cruce y facilitando la visibilidad de los peatones hacia los vehículos y viceversa. Esta solución se adoptará siempre que no se condicione la seguridad de la circulación.
 
-Subir
 
-[Bloque 35: #a2-3]
-
-Artículo 21. Pasos de peatones.
+## Artículo 21. Pasos de peatones.
 
 1. Son pasos de peatones los espacios situados sobre la calzada que comparten peatones y vehículos en los puntos de cruce entre itinerarios peatonales y vehiculares. Su diseño y ubicación se ajustará a lo establecido en los siguientes apartados.
 
@@ -749,11 +424,8 @@ Artículo 21. Pasos de peatones.
 
 4. Estarán señalizados mediante marcas viales en el plano del suelo, que cumplan con la exigencia de resbaladicidad establecida en el artículo 11. Adicionalmente, siempre que las condiciones de seguridad y ubicación del paso lo requieran, se incluirá señalización vertical para los vehículos.
 
-Subir
 
-[Bloque 36: #a2-4]
-
-Artículo 22. Isletas de refugio.
+## Artículo 22. Isletas de refugio.
 
 1. Cuando en el itinerario peatonal del punto de cruce sea necesario atravesar una isleta intermedia a las calzadas del itinerario vehicular, dicha isleta tendrá una anchura mínima igual a la del paso de peatones al que corresponde. Su pavimento cumplirá con las condiciones dispuestas para los itinerarios peatonales accesibles en el artículo 11 y se incorporará la señalización táctil dispuesta en los artículos 45 y 46 a fin de facilitar la seguridad de utilización por parte de las personas con discapacidad visual.
 
@@ -763,11 +435,8 @@ Artículo 22. Isletas de refugio.
 
 4. Será preciso instalar una isleta de refugio intermedia, en todo caso, cuando el itinerario peatonal del punto de cruce supere la distancia de 14,00 m.
 
-Subir
 
-[Bloque 37: #a2-5]
-
-Artículo 23. Semáforos.
+## Artículo 23. Semáforos.
 
 1. Los semáforos peatonales deberán ubicarse de forma que su visibilidad y, en su caso, sonoridad sea perceptible por los peatones, tanto en su estancia en la acera, como en su paso por la calzada.
 
@@ -793,37 +462,27 @@ c) Calles de doble sentido de circulación, con o sin isleta central, que presen
 
 6. Los cálculos para establecer la duración mínima de la fase de paso para los peatones se realizarán desde el supuesto de una velocidad máxima de paso peatonal de 0,50 m/s.
 
-Subir
 
-[Bloque 38: #cv-3]
+## CAPÍTULO VII
 
-CAPÍTULO VII
 
-Urbanización de frentes de parcela
+## Urbanización de frentes de parcela
 
-Subir
 
-[Bloque 39: #a2-6]
-
-Artículo 24. Condiciones generales de la urbanización de frentes de parcela.
+## Artículo 24. Condiciones generales de la urbanización de frentes de parcela.
 
 1. Los frentes de parcela marcan el límite de ésta con la vía pública, no pudiendo invadir el itinerario peatonal accesible ni a nivel del suelo, ni en altura.
 
 2. En caso que se produjera una diferencia de rasantes entre el espacio público urbanizado y la parcela, y debido a la obligación de garantizar las condiciones de accesibilidad en el interior de la misma, el desnivel deberá ser resuelto dentro de los límites de la parcela, sin perjuicio de lo establecido en los apartados 4, 5 y 6 del artículo 24 del Texto Refundido de la Ley de Suelo y Rehabilitación Urbana, aprobado por el Real Decreto Legislativo 7/2015, de 30 de octubre.
 
-Subir
 
-[Bloque 40: #cv-4]
+## CAPÍTULO VIII
 
-CAPÍTULO VIII
 
-Mobiliario urbano
+## Mobiliario urbano
 
-Subir
 
-[Bloque 41: #a2-7]
-
-Artículo 25. Condiciones generales del mobiliario urbano.
+## Artículo 25. Condiciones generales del mobiliario urbano.
 
 Se entiende por mobiliario urbano el conjunto de elementos existentes en los espacios públicos urbanizados, cuya modificación o traslado no requiere alteraciones sustanciales. Su diseño y ubicación responderá a los siguientes criterios:
 
@@ -833,11 +492,8 @@ b) El diseño y ubicación de los elementos de mobiliario urbano garantizará qu
 
 c) Todo elemento transparente será señalizado según los criterios establecidos en el apartado 4 del artículo 41.
 
-Subir
 
-[Bloque 42: #a2-8]
-
-Artículo 26. Bancos y mesas de estancia.
+## Artículo 26. Bancos y mesas de estancia.
 
 1. Cuando se instalen bancos en las zonas de uso peatonal, como mínimo una unidad por cada agrupación y, en todo caso, una unidad por cada cinco bancos o fracción, responderá a los siguientes criterios de diseño y ubicación permitiendo el acceso desde el itinerario peatonal accesible:
 
@@ -855,11 +511,8 @@ b) Estarán a una altura de 85 cm como máximo.
 
 c) Como mínimo una unidad por cada agrupación y, en todo caso, una unidad por cada cinco mesas o fracción dispondrá, en al menos uno de sus lados, de un espacio libre inferior de 70 × 80 × 50 cm (altura × anchura × fondo) así como de un espacio libre de obstáculos o zona de aproximación donde pueda inscribirse un círculo de 1,50 m de diámetro mínimo, que en ningún caso coincidirá con el itinerario peatonal accesible, y su ubicación permitirá el acceso desde el mismo.
 
-Subir
 
-[Bloque 43: #a2-9]
-
-Artículo 27. Fuentes de agua potable.
+## Artículo 27. Fuentes de agua potable.
 
 El diseño y ubicación de las fuentes de agua potable vinculadas a un itinerario peatonal accesible, permitirá el acceso desde el mismo y responderá a los siguientes criterios:
 
@@ -869,35 +522,26 @@ b) Contará con un espacio de utilización en el que pueda inscribirse un círcu
 
 c) Impedirá la acumulación de agua. Cuando se utilicen rejillas, éstas responderán a los criterios establecidos en el artículo 12.
 
-Subir
 
-[Bloque 44: #a2-10]
-
-Artículo 28. Papeleras y contenedores para depósito y recogida de residuos.
+## Artículo 28. Papeleras y contenedores para depósito y recogida de residuos.
 
 El diseño y ubicación de las papeleras y los contenedores para depósito y recogida de residuos responderá a los siguientes criterios:
 
 a) En las papeleras y los contenedores enterrados la altura de la parte inferior de la boca estará situada entre 70 y 90 cm desde el itinerario peatonal accesible. En los contenedores semienterrados la altura de la parte inferior de la boca estará situada entre 0,70 y 1,10 m desde el itinerario peatonal accesible. En los contenedores no enterrados la altura de la parte inferior de la boca estará situada entre 0,70 y 1,20 m desde el itinerario peatonal accesible, pudiendo elevarse dicha altura hasta 1,70 m, cuando cuenten con boca adicional, y encontrándose la parte inferior de ésta entre 0,70 y 1,10 m de altura.
 
-b) El mecanismo de apertura del contenedor será de fácil detección y manejo permitiendo su accionamiento con el puño o con el codo y estará situadoa una altura entre 0,70 y 1,10 mdesde el itinerario peatonal accesible. Cuando el sistema de apertura además incorpore pedal éste no exigirá elevación a una altura superior a 20 cm desde el itinerario peatonal accesible. En todo caso el mecanismo de apertura no requerirá una fuerza superior a 25 N y el sistema de cierre será retardado.
+b) El mecanismo de apertura del contenedor será de fácil detección y manejo permitiendo su accionamiento con el puño o con el codo y estará situado a una altura entre 0,70 y 1,10 m desde el itinerario peatonal accesible. Cuando el sistema de apertura además incorpore pedal éste no exigirá elevación a una altura superior a 20 cm desde el itinerario peatonal accesible. En todo caso el mecanismo de apertura no requerirá una fuerza superior a 25 N y el sistema de cierre será retardado.
 
 c) La disposición de los contenedores enterrados no generará cambios de nivel en el pavimento circundante.
 
 d) En todo caso la ubicación de las papeleras y contenedores permitirá el acceso y uso desde el itinerario peatonal accesible.
 
-Subir
 
-[Bloque 45: #a2-11]
-
-Artículo 29. Bolardos.
+## Artículo 29. Bolardos.
 
 Los bolardos instalados en las zonas de uso peatonal se ubicarán de forma alineada, tendrán una altura situada entre 0,75 y 1,00 m, un ancho o diámetro mínimo de 10 cm y un diseño redondeado y sin aristas. Su color contrastará con el pavimento en toda la pieza o, como mínimo, en su tramo superior, asegurando su visibilidad en horas nocturnas.
 
-Subir
 
-[Bloque 46: #a3-2]
-
-Artículo 30. Elementos de protección peatonal.
+## Artículo 30. Elementos de protección peatonal.
 
 1. Se consideran elementos de protección peatonal las barandillas, los pasamanos, las vallas y los zócalos. El diseño y ubicación de estos elementos en las zonas de uso peatonal se ajustará a lo establecido en los siguientes apartados.
 
@@ -927,21 +571,15 @@ e) Serán continuos en todo su recorrido y se prolongarán 30 cm más allá del 
 
 5. En los bordes libres de las rampas reguladas en el artículo 14, se colocarán zócalos laterales de 10 cm de altura mínima.
 
-Subir
 
-[Bloque 47: #a3-3]
-
-Artículo 31. Elementos de señalización e iluminación.
+## Artículo 31. Elementos de señalización e iluminación.
 
 1. Con la finalidad de evitar los riesgos para la circulación peatonal derivados de la proliferación de elementos de señalización e iluminación en las zonas de uso peatonal, éstos se agruparán en el menor número de soportes y se ubicarán preferentemente junto a la banda exterior de la acera.
 
 2. Cuando el ancho libre de paso no permita la instalación de elementos de señalización e iluminación junto al itinerario peatonal accesible, éstos podrán estar adosados en fachada, quedando el borde inferior a una altura mínima de 2,20 m.
 
-Subir
 
-[Bloque 48: #a3-4]
-
-Artículo 32. Otros elementos.
+## Artículo 32. Otros elementos.
 
 1. El diseño y ubicación de las máquinas expendedoras, los cajeros automáticos, los teléfonos públicos y otros elementos que requieran manipulación, instalados en las zonas de uso peatonal, se ajustará a lo establecido en los siguientes apartados.
 
@@ -949,11 +587,8 @@ Artículo 32. Otros elementos.
 
 3. Las pantallas, botoneras y sistemas de comunicación interactiva disponibles en los elementos manipulables responderán a los criterios dispuestos en el artículo 47 y en los elementos que dispongan de teclado numérico deberá señalizarse de manera táctil la tecla número 5.
 
-Subir
 
-[Bloque 49: #a3-5]
-
-Artículo 33. Elementos vinculados a actividades comerciales.
+## Artículo 33. Elementos vinculados a actividades comerciales.
 
 1. El diseño y la ubicación de elementos vinculados a actividades comerciales disponibles en las zonas de uso peatonal se ajustará a lo establecido en los siguientes apartados.
 
@@ -963,11 +598,8 @@ Artículo 33. Elementos vinculados a actividades comerciales.
 
 4. Los kioscos y puestos comerciales que cuenten con mostradores de atención al público dispondrán de un espacio mínimo de 80 cm de ancho situado a una altura máxima de 85 cm y con un espacio libre mínimo inferior de 70 x 80 x 50 cm (altura x anchura x profundidad) que permita la aproximación de una persona en silla de ruedas. Cuando cuenten con repisas o ventanillas para transacciones rápidas éstas deberán disponerse a una altura comprendida entre 0,90 y 1,20 m.
 
-Subir
 
-[Bloque 50: #a3-6]
-
-Artículo 34. Cabinas de aseo, vestuarios y duchas exteriores.
+## Artículo 34. Cabinas de aseo, vestuarios y duchas exteriores.
 
 1. Cuando se instalen cabinas de aseo público en las zonas de uso peatonal, como mínimo una de cada diez o fracción de cada agrupación responderá a los criterios de diseño y ubicación que se establecen en los apartados 2 y 3, tanto en referencia al exterior, como al interior.
 
@@ -997,19 +629,14 @@ g) Poseerán un sistema de llamada de auxilio que pueda ser accionado con facili
 
 5. Cuando se instalen duchas exteriores en los tramos urbanos de las playas, y sin perjuicio de las limitaciones que puedan producirse en aplicación de la legislación estatal en materia de costas, una de cada diez o fracción de cada agrupación, como mínimo, deberá estar comunicada con el itinerario peatonal accesible y disponer de un área de utilización nivelada con el pavimento circundante, con una pendiente de evacuación máxima de 2%. Contará con un asiento con las medidas de profundidad, anchura y altura especificadas para los asientos de las duchas del apartado e) del apartado 3, así como con respaldo y apoyabrazos abatibles a ambos lados, que permita la transferencia desde una silla de ruedas y, junto al lateral del asiento y como parte del área de utilización de la ducha, existirán espacios laterales de transferencia de 0,80 m de anchura y 1,20 m de fondo.
 
-Subir
 
-[Bloque 51: #ci-5]
+## CAPÍTULO IX
 
-CAPÍTULO IX
 
-Elementos vinculados al transporte
+## Elementos vinculados al transporte
 
-Subir
 
-[Bloque 52: #a3-7]
-
-Artículo 35. Plazas de aparcamiento reservadas para personas con movilidad reducida.
+## Artículo 35. Plazas de aparcamiento reservadas para personas con movilidad reducida.
 
 1. Los principales centros de actividad de las ciudades deberán disponer de plazas de aparcamiento reservadas y diseñadas para su uso por personas titulares de la tarjeta de estacionamiento para personas con discapacidad. Como mínimo una de cada cuarenta plazas o fracción, independientemente de las plazas destinadas a residencia o lugares de trabajo, será reservada a dicho fin y se ajustará a lo establecido en los siguientes apartados.
 
@@ -1021,43 +648,29 @@ Artículo 35. Plazas de aparcamiento reservadas para personas con movilidad redu
 
 5. Las plazas de aparcamiento estarán señalizadas horizontal y verticalmente con el símbolo de accesibilidad para la movilidad, cumpliendo lo establecido en el artículo 43.
 
-Subir
 
-[Bloque 53: #a3-8]
-
-Artículo 36. Accesos, paradas y marquesinas de espera del transporte público.
+## Artículo 36. Accesos, paradas y marquesinas de espera del transporte público.
 
 Los accesos, paradas y marquesinas de espera del transporte público se situarán próximas al itinerario peatonal accesible, estarán conectadas a éste de forma accesible y sin invadirlo y cumplirán las características establecidas en el Real Decreto 1544/2007, de 23 de noviembre, por el que se regulan las condiciones básicas de accesibilidad y no discriminación para el acceso y utilización de los modos de transporte para personas con discapacidad. Se evitará que el mobiliario urbano o elementos de urbanización estén colocados en la zona de influencia de las paradas de transporte público.
 
-Subir
 
-[Bloque 54: #a3-9]
-
-Artículo 37. Entradas y salidas de vehículos.
+## Artículo 37. Entradas y salidas de vehículos.
 
 Ningún elemento relacionado con las entradas y salidas de vehículos podrá invadir el espacio del itinerario peatonal accesible y, además, cumplirá lo dispuesto en el artículo 13.
 
-Subir
 
-[Bloque 55: #a3-10]
-
-Artículo 38. Espacios reservados al tránsito de bicicletas y vehículos de movilidad personal.
+## Artículo 38. Espacios reservados al tránsito de bicicletas y vehículos de movilidad personal.
 
 El espacio reservado al tránsito de bicicletas y, en su caso, vehículos de movilidad personal, tendrá su propio trazado en los espacios públicos urbanizados, el cual estará debidamente señalizado y diferenciado de las zonas de uso peatonal. Su trazado respetará el itinerario peatonal en todos sus puntos de cruce.
 
-Subir
 
-[Bloque 56: #cx]
+## CAPÍTULO X
 
-CAPÍTULO X
 
-Obras e intervenciones
+## Obras e intervenciones
 
-Subir
 
-[Bloque 57: #a3-11]
-
-Artículo 39. Condiciones generales de las obras e intervenciones.
+## Artículo 39. Condiciones generales de las obras e intervenciones.
 
 1. Las obras e intervenciones que se realicen en los espacios públicos urbanizados deberán garantizar las condiciones generales de accesibilidad en los itinerarios peatonales. Cuando las obras no permitan mantener las condiciones del itinerario peatonal accesible habitual se dispondrá de un itinerario peatonal accesible alternativo, debidamente señalizado, que persiga el mayor grado de adecuación efectiva a las condiciones establecidas en el artículo 5.
 
@@ -1069,29 +682,21 @@ Artículo 39. Condiciones generales de las obras e intervenciones.
 
 5. Las puertas y portones destinados a entrada y salida de personas, materiales y vehículos, así como otros elementos de acceso y cierre de la obra, no invadirán el itinerario peatonal accesible. Se evitarán elementos que sobresalgan de las estructuras; en caso de su existencia se protegerán con materiales seguros y de color contrastado, desde el suelo hasta una altura de 2,20 m.
 
-Subir
 
-[Bloque 58: #cx-2]
+## CAPÍTULO XI
 
-CAPÍTULO XI
 
-Comunicación y señalización
+## Comunicación y señalización
 
-Subir
 
-[Bloque 59: #a4-2]
-
-Artículo 40. Condiciones generales de la comunicación y señalización.
+## Artículo 40. Condiciones generales de la comunicación y señalización.
 
 1. Todo sistema de comunicación y señalización que contenga elementos visuales, sonoros o táctiles, a disposición de las personas en los espacios públicos urbanizados, deberá incorporar los criterios de diseño para todas las personas a fin de garantizar el acceso a la información y comunicación básica y esencial, evitando la sobresaturación estimular.
 
 2. En todo itinerario peatonal accesible las personas deberán tener acceso a la información necesaria para orientarse de manera eficaz durante todo el recorrido y poder localizar los distintos espacios y equipamientos de interés. La información deberá ser comunicada a través de un sistema de señales, rótulos e indicadores, distribuidos de manera sistematizada, instalados y diseñados para garantizar una fácil comprensión en todo momento.
 
-Subir
 
-[Bloque 60: #a4-3]
-
-Artículo 41. Señalización visual y acústica.
+## Artículo 41. Señalización visual y acústica.
 
 1. Los rótulos, carteles y paneles informativos serán estandarizados y, para su correcto diseño y ubicación, se tendrán en cuenta los siguientes criterios:
 
@@ -1111,37 +716,13 @@ a) Se utilizarán fuentes tipo palo seco u otras que hayan sido testadas comprob
 
 b) El tamaño de las fuentes estará determinado por la distancia a la que podrá situarse el observador, de acuerdo con la siguiente tabla:
 
-Tamaño de textos según la distancia
 
-Distancia (m)
+## Tamaño de textos según la distancia
 
-Tamaño mínimo (altura en cm)
+Distancia (m) Tamaño mínimo (altura en cm) ≥ 5,0 7,0 4,0 5,6 3,0 4,2 2,0 2,8 1,0 1,4 0,5 0,7
 
-≥ 5,0
 
-7,0
-
-4,0
-
-5,6
-
-3,0
-
-4,2
-
-2,0
-
-2,8
-
-1,0
-
-1,4
-
-0,5
-
-0,7
-
-Figura 1. Tamaño de las letras en la señalización de acuerdo con la distancia de lectura
+## Figura 1. Tamaño de las letras en la señalización de acuerdo con la distancia de lectura
 
 3. Los pictogramas que se incorporen en los rótulos, carteles y paneles informativos cumplirán las siguientes condiciones:
 
@@ -1153,11 +734,8 @@ b) Siempre que sea posible, irán acompañados de texto descriptivo.
 
 5. La información ofrecida de forma sonora en zonas de concurrencia de público, estará disponible también de forma escrita por medio de paneles u otros sistemas visuales, que serán colocados de forma visible y detectable en cualquier momento.
 
-Subir
 
-[Bloque 61: #a4-4]
-
-Artículo 42. Aplicaciones reguladas de la señalización visual.
+## Artículo 42. Aplicaciones reguladas de la señalización visual.
 
 1. Los diferentes tipos de señales y la información contenida en las mismas mantendrán la forma, el color y la ubicación estándares o, al menos uniforme, en cada municipio o población.
 
@@ -1165,11 +743,8 @@ Artículo 42. Aplicaciones reguladas de la señalización visual.
 
 3. Se reiterará la señalización en las encrucijadas o lugares de toma de decisión y como recordatorio en largos recorridos lineales, evitando el exceso de señales en un mismo punto.
 
-Subir
 
-[Bloque 62: #a4-5]
-
-Artículo 43. Aplicaciones del Símbolo de accesibilidad para la movilidad.
+## Artículo 43. Aplicaciones del Símbolo de accesibilidad para la movilidad.
 
 1. Con el objeto de identificar el acceso y posibilidades de uso de espacios, instalaciones y servicios, se señalizarán permanentemente con el Símbolo de accesibilidad para la movilidad los siguientes espacios:
 
@@ -1189,11 +764,8 @@ f) Los accesos y las paradas del transporte público reguladas en el artículo 3
 
 3. Para cualquier otra situación no especificada en el apartado 1 y de considerarse necesario, se podrá señalizar con el símbolo estandarizado que corresponda en cada caso.
 
-Subir
 
-[Bloque 63: #a4-6]
-
-Artículo 44. Señalización táctil.
+## Artículo 44. Señalización táctil.
 
 1. Siempre que un rótulo, panel o cartel esté ubicado en la zona ergonómica de interacción del brazo (en paramentos verticales, entre 1,20 y 1,60 m, y en planos horizontales, entre 0,90 y 1,25 m), se utilizará el braille y la señalización en alto relieve u otro sistema para garantizar su comprensión por parte de las personas con discapacidad visual. En tal caso se cumplirán las siguientes condiciones:
 
@@ -1213,11 +785,8 @@ c) Estarán libres de obstáculos o protecciones de cristales u otros elementos 
 
 d) Respetarán las indicaciones dimensionales del apartado 1.c) del artículo 41.
 
-Subir
 
-[Bloque 64: #a4-7]
-
-Artículo 45. Tipos de pavimento táctil indicador.
+## Artículo 45. Tipos de pavimento táctil indicador.
 
 1. En las zonas de uso peatonal se deberá usar pavimento táctil indicador para orientar, dirigir y advertir a las personas, disponiéndose franjas de acabado, orientación y ancho variable, tal y como se regulan en el artículo 46.
 
@@ -1227,11 +796,8 @@ a) Pavimento táctil indicador direccional, para señalar encaminamiento o guía
 
 b) Pavimento táctil indicador de advertencia, para señalar proximidad a puntos de peligro o puntos de decisión. Estará constituido por piezas o materiales con botones sin aristas vivas, de forma troncocónica, cúpula truncada o funcionalmente equivalente cuya altura será de 4 mm. El pavimento se dispondrá de modo que los botones formen una retícula ortogonal orientada en el sentido de la marcha.
 
-Subir
 
-[Bloque 65: #a4-8]
-
-Artículo 46. Aplicaciones reguladas del pavimento táctil indicador.
+## Artículo 46. Aplicaciones reguladas del pavimento táctil indicador.
 
 1. Para facilitar la orientación y el encaminamiento de los itinerarios peatonales accesibles situados en zonas abiertas, o para dar continuidad a los mismos cuando éstos no puedan quedar delimitados por la línea de fachada o referencia edificada a nivel del suelo, su desarrollo deberá señalizarse mediante una franja-guía longitudinal de pavimento táctil indicador direccional de 40 cm de anchura comprendida en el itinerario peatonal accesible. En este último caso deberá disponerse como muestra la figura 2.
 
@@ -1263,11 +829,8 @@ a) Piezas de pavimento táctil indicador de advertencia que conformen un paralel
 
 b) Piezas en inglete de pavimento táctil indicador direccional en cambios de dirección de la franja-guía que formen un ángulo menor de 45° respecto del eje del sentido de la marcha, y de su mismo ancho.
 
-Subir
 
-[Bloque 66: #a4-9]
-
-Artículo 47. Comunicación Interactiva.
+## Artículo 47. Comunicación Interactiva.
 
 1. Los cajeros automáticos, sistemas de llamada o apertura, máquinas expendedoras, elementos de comunicación informatizados y otros elementos situados en las zonas de uso peatonal que, para su funcionamiento, requieren ser accionados por personas se ajustarán a lo establecido en este artículo.
 
@@ -1277,13 +840,11 @@ Artículo 47. Comunicación Interactiva.
 
 4. En caso de que el elemento manipulable disponga de pantalla, ésta se instalará ligeramente inclinada entre 15° y 30° con la vertical, a una altura entre 0,80 y 1,20 m, asegurando la visibilidad de una persona sentada.
 
-Subir
 
-[Bloque 67: #ap]
+## APÉNDICE
 
-APÉNDICE
 
-Normas citadas en el documento técnico que desarrolla las condiciones básicas de accesibilidad y no discriminación para el acceso y la utilización de los espacios públicos urbanizados
+## Normas citadas en el documento técnico que desarrolla las condiciones básicas de accesibilidad y no discriminación para el acceso y la utilización de los espacios públicos urbanizados
 
 El articulado de este documento técnico establece una serie de requisitos por referencia a normativa UNE o UNE-EN. La relación de las versiones correspondientes a las normas aplicables en cada caso, con referencia a su fecha de aprobación, es la que se indica en este apéndice. Se exceptúa el caso de la norma armonizada UNE-EN 81-70, que se utilizará en la última versión publicada en el Diario Oficial de la Unión Europea (DOUE), en el marco de la aplicación de la Directiva 2014/33/UE del Parlamento Europeo y del Consejo, de 26 de febrero de 2014, sobre la armonización de las legislaciones de los estados miembros en materia de ascensores y componentes de seguridad para ascensores:
 
@@ -1296,31 +857,3 @@ UNE 41501:2002: Símbolo de accesibilidad para la movilidad. Reglas y grados de 
 UNE 103501:1994: Geotecnia. Ensayo de compactación. Proctor modificado.
 
 Las normas recogidas en este Apéndice podrán ser sustituidas por otras de las utilizadas en cualquiera de los otros Estados miembros de la Unión Europea, o que sean parte del Acuerdo sobre el Espacio Económico Europeo, y en aquellos Estados que tengan un acuerdo de asociación aduanera con la Unión Europea, siempre que se demuestre que poseen especificaciones técnicas equivalentes.
-
-Subir
-
-Este documento es de carácter informativo y no tiene valor jurídico.
-
-Ayúdenos a mejorar: puede dirigir sus comentarios y sugerencias a nuestro Servicio de atención al ciudadano
-
-Contactar
-
-Sobre la sede electrónica
-
-Mapa
-
-Aviso legal
-
-Accesibilidad
-
-Protección de datos
-
-Sistema Interno de Información
-
-Tutoriales
-
-Empleo en la AEBOE
-
-Agencia Estatal Boletín Oficial del Estado
-
-Avda. de Manoteras, 54 - 28050 Madrid

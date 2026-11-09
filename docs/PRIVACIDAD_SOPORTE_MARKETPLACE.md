@@ -29,13 +29,14 @@ MCP local que busca por texto (BM25) en la carpeta que el usuario indica al inst
 
 ## Corpus de muestra
 
-`plugins/normativa-iccp/corpus_muestra/` contiene cuatro disposiciones oficiales publicadas en el
-BOE (Ley 4/2017 de Andalucía, Título VIII; Orden TMA/851/2021; Real Decreto 3/2023, Capítulo II;
-Real Decreto 140/2003, solo como aviso de norma derogada). Las disposiciones oficiales no son
-objeto de propiedad intelectual (art. 13 del texto refundido de la Ley de Propiedad Intelectual).
-No contiene datos de ningún cliente ni proyecto. El texto procede de la legislación consolidada
-publicada en el BOE; antes de citar una norma en un documento, debe contrastarse con su fuente
-oficial.
+`plugins/normativa-iccp/corpus_muestra/` contiene tres disposiciones oficiales publicadas en el
+BOE (Orden TMA/851/2021; Real Decreto 3/2023, Capítulo II; Real Decreto 140/2003, solo como aviso
+de norma derogada). Las disposiciones oficiales no son objeto de propiedad intelectual (art. 13
+del texto refundido de la Ley de Propiedad Intelectual). No contiene datos de ningún cliente ni
+proyecto. El texto procede del XML de legislación consolidada del BOE a la fecha que indica la
+cabecera de cada fichero; antes de citar una norma en un documento, debe contrastarse con su
+fuente oficial, porque pueden existir modificaciones posteriores (la Orden TMA/851/2021 recoge en
+su cabecera una modificación futura ya publicada).
 
 ## Aviso de uso
 

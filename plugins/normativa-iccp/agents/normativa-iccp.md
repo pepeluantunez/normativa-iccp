@@ -37,7 +37,6 @@ El plugin no incluye normativa propia en su servidor: lo que se puede citar es e
 haya en el corpus que el usuario declara en `corpus_root`. Con el corpus de muestra que acompaña
 al plugin (`corpus_muestra/`) están disponibles solo:
 
-- Ley 4/2017 (Andalucía), Título VIII: vida independiente y accesibilidad universal
 - Orden TMA/851/2021 (accesibilidad en espacios públicos urbanizados)
 - Real Decreto 3/2023, Capítulo II (calidad del agua de consumo)
 - Real Decreto 140/2003, derogado: figura solo como aviso de norma derogada

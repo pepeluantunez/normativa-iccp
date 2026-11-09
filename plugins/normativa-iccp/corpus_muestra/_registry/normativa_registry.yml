@@ -1,7 +1,7 @@
-# NORMATIVA_REGISTRY (muestra) - subconjunto de 4 disposiciones oficiales.
+# NORMATIVA_REGISTRY (muestra) - subconjunto de 3 disposiciones oficiales.
 schema_version: '1.1'
 last_updated: '2026-08-19'
-total_normas: 4
+total_normas: 3
 normas:
 - codigo: CORE-NOR-0008
   titulo: Real Decreto 140/2003 - Criterios sanitarios de la calidad del agua de consumo humano
@@ -48,18 +48,18 @@ normas:
     ficha_conocimiento: null
   estadisticas:
     paginas: 0
-    caracteres: 98418
+    caracteres: 94904
   extraccion:
-    procesado_por: Codex (GPT-5)
-    fecha: '2026-05-21'
-    metodo: BOE HTML consolidado + HTMLParser
+    procesado_por: regeneracion desde XML oficial del BOE (sin edicion)
+    fecha: '2026-11-09'
+    metodo: XML de legislacion consolidada del BOE (BOE-A-2021-13488)
     calidad_estimada: alta
     ocr_necesario: false
     nota: Base estatal para accesibilidad de espacios publicos urbanizados. Relevante para plazas, parques y jardines, IPA,
       alcorques, mobiliario, rampas peatonales y areas estanciales.
   validacion:
-    validado_por: Codex (GPT-5, 2026-05-21)
-    nivel: checked
+    validado_por: null
+    nivel: contrastado_con_boe
 - codigo: CORE-NOR-0104
   titulo: 'Real Decreto 3/2023 - Criterios tecnico-sanitarios de la calidad del agua de consumo, su control y suministro'
   abreviatura: 'RD 3/2023'
@@ -88,31 +88,3 @@ normas:
   tipo: reglamento
   anio: 2023
   sustituye_a: CORE-NOR-0008
-- codigo: CORE-NOR-0105
-  titulo: 'Ley 4/2017 - Derechos y Atencion a las Personas con Discapacidad en Andalucia'
-  abreviatura: 'Ley 4/2017'
-  boe_id: BOE-A-2017-11910
-  categoria: accesibilidad
-  estado_vigencia: vigente
-  aplicacion: andalucia
-  rutas:
-    pdf_local: null
-    texto_extraido: 01_texto_extraido/accesibilidad/Ley_4_2017_Discapacidad_Andalucia_*.md
-    ficha_conocimiento: null
-  estadisticas:
-    paginas: null
-    fragmentos: 16
-  extraccion:
-    procesado_por: tools/normativa/ingest_norma_consolidada.py
-    fecha: '2026-08-14'
-    metodo: 'XML de legislacion consolidada del BOE (BOE-A-2017-11910), troceado por titulos'
-    calidad_estimada: alta
-    ocr_necesario: false
-    nota: 'Sucesora de la Ley 1/1999, que derogo el 24-10-2017. Para urbanizacion el titulo aplicable es el VIII (vida independiente y accesibilidad universal). Alta del 2026-08-14.'
-  validacion:
-    validado_por: null
-    nivel: pendiente
-  cobertura: completa
-  tipo: ley
-  anio: 2017
-  sustituye_a: CORE-NOR-0047
